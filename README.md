@@ -4,6 +4,8 @@
 
 - Shooter game, where most shooters just kill but this one is about pushing into lava.
 
+![Starting Out](ScreenShot1.png)
+
 ---
 
 ## 🎯 The Goal:
