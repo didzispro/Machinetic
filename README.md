@@ -12,7 +12,7 @@
 
 - Reach the end of the level.
 
-![Starting Out](ScreenShot2.png)
+![Player is standing with enemies](ScreenShot2.png)
 
 ---
 
@@ -21,6 +21,8 @@
 - 26/04/2026: Major Update: v1.0.0
 
 - 11/05/2026: Minor Update + Patches!
+
+![Player is standing with enemies](ScreenShot3.png)
 
 Minor Update:
 
