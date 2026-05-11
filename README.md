@@ -4,6 +4,8 @@
 
 🎮 **[Play on Game Jolt](https://gamejolt.com/games/machinetic-shotting-game/1069546)**
 
+---
+
 ## 🎮 About the game:
 
 - Shooter game, where most shooters just kill but this one is about pushing into lava.
