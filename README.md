@@ -4,7 +4,7 @@
 
 - Shooter game, where most shooters just kill but this one is about pushing into lava.
 
-![Starting Out](ScreenShot1.png)
+![Player standing in starting area](ScreenShot1.png)
 
 ---
 
