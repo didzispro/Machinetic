@@ -53,6 +53,7 @@ Minor Update:
 ## Game Jam:
 
 - This was made in 13 days i think and it's was for game jam!
+- Made in 13 days for a game jam 🎮
 
 ---
 
