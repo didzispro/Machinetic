@@ -34,7 +34,7 @@ Minor Update:
 
 - Enemies can jump!
 
-## Patches:
+**Patches:**
 
 - Better polish!
 
