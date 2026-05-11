@@ -22,7 +22,7 @@
 
 - 11/05/2026: Minor Update + Patches!
 
-![Player is standing with enemies](ScreenShot3.png)
+![Player jumping higher using a jump pad over lava](ScreenShot3.png)
 
 Minor Update:
 
