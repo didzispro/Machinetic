@@ -8,7 +8,7 @@
 
 ## 🎮 About the game:
 
-Shooter game, where most shooters just kill but this one is about pushing into lava.
+- Shooter game, where most shooters just kill but this one is about pushing into lava.
 
 ![Player standing in starting area](ScreenShot1.png)
 
@@ -16,7 +16,7 @@ Shooter game, where most shooters just kill but this one is about pushing into l
 
 ## 🎯 The Goal:
 
-Reach the end of the level.
+- Reach the end of the level.
 
 ![Player is standing with enemies](ScreenShot2.png)
 
@@ -46,13 +46,13 @@ Minor Update:
 
 ## 🧑‍💻 The Dev Note:
 
-- Took me long time to fix things and i am tired so hope you have fun!
+**Took me long time to fix things and i am tired so hope you have fun!**
 
 ---
 
 ## Game Jam:
 
-- Made in 13 days for a game jam 🎮
+**Made in 13 days for a game jam 🎮**
 
 ---
 
