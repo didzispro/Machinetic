@@ -12,6 +12,8 @@
 
 - Reach the end of the level.
 
+![Starting Out](ScreenShot2.png)
+
 ---
 
 ## 🧩 Updates:
