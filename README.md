@@ -1,6 +1,6 @@
 # ⚙️ Machinetic
 
-## 🎮 The about the game:
+# 🎮 The about the game:
 
 - Shooter game, where most shooters just kill but this one is about pushing into lava.
 
