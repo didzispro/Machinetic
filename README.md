@@ -1,8 +1,8 @@
 # ⚙️ Machinetic
 
-🚀 [Play on itch.io](https://didzisprocoder.itch.io/machinetic-shotting-game)
+🚀 **[Play on itch.io](https://didzisprocoder.itch.io/machinetic-shotting-game)**
 
-🎮 [Play on Game Jolt](https://gamejolt.com/games/machinetic-shotting-game/1069546)
+🎮 **[Play on Game Jolt](https://gamejolt.com/games/machinetic-shotting-game/1069546)**
 
 ## 🎮 About the game:
 
