@@ -8,7 +8,7 @@
 
 ## 🎮 About the game:
 
-- Shooter game, where most shooters just kill but this one is about pushing into lava.
+Shooter game, where most shooters just kill but this one is about pushing into lava.
 
 ![Player standing in starting area](ScreenShot1.png)
 
@@ -16,7 +16,7 @@
 
 ## 🎯 The Goal:
 
-- Reach the end of the level.
+Reach the end of the level.
 
 ![Player is standing with enemies](ScreenShot2.png)
 
